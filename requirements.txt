@@ -1,0 +1,6 @@
+tornado
+stdnum
+vatnumber
+codicefiscale
+bs4
+beautifulsoup4==4.9.3
